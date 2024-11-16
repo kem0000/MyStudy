@@ -1,2 +1,2 @@
 # MyStudy
-Learning HRML, CSS
+Learning HTML, CSS
